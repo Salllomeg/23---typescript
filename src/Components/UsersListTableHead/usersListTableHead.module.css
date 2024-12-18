@@ -1,0 +1,24 @@
+.name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  text-wrap: nowrap;
+}
+
+.sort_image{
+  width: 16px;
+  height: 16px;
+}
+
+.desc {
+  transform: rotate(180deg);
+}
+
+input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  text-wrap: nowrap;
+}

@@ -1,0 +1,28 @@
+.table_container {
+  width: 100%;
+}
+
+.table_container table {
+  width: 100%;
+}
+
+.table_container table, 
+.table_container th,
+.table_container td, 
+.table_container tr,
+.input {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.table_container th,
+.table_container td {
+  font-size: 24px;
+  padding: 10px 15px;
+}
+
+input {
+  outline: none;
+  border: none;
+  font-size: 24px;
+}
